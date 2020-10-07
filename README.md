@@ -16,3 +16,15 @@ This Repository contains the Iris Dataset Project created by using 4 different M
 2. Super Vector Machine (SVM)
 3. Decision Tree 
 4. K-Nearest Neighbor (KNN)
+
+
+### Solved by using  
+<img align="centre" alt="codeSTACKr | Tableau" width="49px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />
+ 
+With help of some lib. like 
+
+<img align="left" alt="codeSTACKr.com" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" />
+<img align="left" alt="codeSTACKr.com" width="100" src="https://miro.medium.com/max/765/1*cyXCE-JcBelTyrK-58w6_Q.png" />
+<img align="left" alt="codeSTACKr.com" width="100" src="https://www.janmeppe.com/assets/2019-12-24-matplotlib/matplotlib.jpg" />
+<img align="left" alt="codeSTACKr.com" width="100" src="https://miro.medium.com/max/4966/1*gM_WIfx7MXOO7jzsPm-Y0Q.png" />
+<img align="left" alt="codeSTACKr.com" width="100" src="https://miro.medium.com/max/629/1*_HoMKjrWahRiI-JmwYW6zg.png" />
